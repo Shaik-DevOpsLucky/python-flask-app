@@ -52,6 +52,7 @@ docker run -d -p 5000:5000 --name flask-app <dockerhub_username>/flask-app:lates
 App is ready access with your url
 http://34.239.127.148:5000/
 
-<img width="1666" height="867" alt="image" src="https://github.com/user-attachments/assets/9c3d607b-2580-4e74-a9a6-0b1c0069fa52" />
 
 ```
+<img width="1666" height="867" alt="image" src="https://github.com/user-attachments/assets/3e76a50f-5ac2-49e7-b573-c28269d6bd06" />
+
