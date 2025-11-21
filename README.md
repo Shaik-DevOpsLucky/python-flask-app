@@ -49,8 +49,9 @@ docker run -d -p 5000:5000 --name flask-app <dockerhub_username>/flask-app:lates
 ```
 
 ```
+App is ready access with your url
+http://34.239.127.148:5000/
 
-This is **fully copy-paste ready**, minimal, and includes all steps: EC2 setup, Docker installation, runner setup, and deployment.  
+<img width="1666" height="867" alt="image" src="https://github.com/user-attachments/assets/9c3d607b-2580-4e74-a9a6-0b1c0069fa52" />
 
-If you want, I can also **add a small “GitHub Secrets setup” snippet** for DockerHub login in the README so the workflow is complete. Do you want me to add that?
 ```
